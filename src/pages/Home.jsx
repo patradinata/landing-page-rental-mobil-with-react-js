@@ -5,7 +5,6 @@ import Banner from "../components/Banner";
 import Testimonial from "../components/Testimonial";
 import NewsLetter from "../components/NewsLetter";
 
-
 const Home = () => {
   return (
     <>
